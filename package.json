@@ -1,15 +1,19 @@
 {
   "name": "schlagwort",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "",
   "type": "module",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FedjaW/schlagwort"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "bin": "./index.js",
   "keywords": [],
-  "author": "",
+  "author": "FWilms",
   "license": "ISC",
   "dependencies": {
     "nanospinner": "^1.1.0"

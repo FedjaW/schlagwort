@@ -2,13 +2,7 @@
 
 Generates and prints a buzzword (and its meaning) to the console.
 
-## Install
-
-```sh
-npm install schlagwort
-```
-
-## Use
+## Generate a buzzword
 
 ```sh
 npx schlagwort
