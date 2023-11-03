@@ -3,7 +3,7 @@
 import { createSpinner } from 'nanospinner'
 import { buzzwords } from './buzzwords.js'
 
-function sleep(ms = 1_500) {
+function sleep(ms = 1_000) {
   return new Promise((_) => setTimeout(_, ms))
 }
 
